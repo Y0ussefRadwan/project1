@@ -1,22 +1,16 @@
-# project1
-Overview:
-This is a simple Bookstore Management System written in Java that runs in the console (command line).
-It lets an admin user do basic operations related to managing books in the store, such as adding, updating, deleting, and restoring books.
+Bookstore Management System — Java
 
-What the code can do:
-User login (authentication)
+A console-based Java application designed to manage bookstore inventory through an admin interface.
 
-Add a new book
+Key Features:
 
-Show all available books
+Admin authentication
+Add new books
+View available books
+Search books by ID
+Update book information
+Soft delete books while preserving their data
+Restore deleted books
+Input validation and organized menu-based operations
 
-Search for a book by its ID
-
-Update book details by ID
-
-Soft-delete a book by ID (mark it deleted but keep its data in backup)
-
-Restore a previously deleted book
-
-Exit the program
-
+Technologies: Java • OOP • File I/O • CRUD Operations
