@@ -13,4 +13,4 @@ Soft delete books while preserving their data
 Restore deleted books
 Input validation and organized menu-based operations
 
-Technologies: Java • OOP • File I/O • CRUD Operations
+
